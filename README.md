@@ -20,7 +20,7 @@ Ticktein - Event creation and reservation system
 - git
 
 #Get the source code on your machine via git
-- git clone https://github.com/Syedmuhammad07/Ticktetein.git
+- git clone https://github.com/Syedmuhammad07/Ticketein.git
 - open http://localhost/phpmyadmin/ and create a new empty database 
 - open .env file and replace DB_Database name with the name of your empty database. 
 - Also, change the DB_username, DB_password and DB_port according to your created database.
